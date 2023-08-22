@@ -1,5 +1,4 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-==========================================================================================================================================
+
 
 As small businesses increasingly adopt AI-powered financial management, it is essential to consider the ethical implications of AI technology. In this chapter, we will discuss the importance of AI ethics and governance in small business financial management and provide guidance on developing governance frameworks to ensure responsible AI use.
 
