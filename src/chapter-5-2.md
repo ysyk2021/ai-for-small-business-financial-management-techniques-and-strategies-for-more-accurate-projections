@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss best practices for small businesses when collecting and preparing data for use in AI algorithms for financial management.
 
 Identify Relevant Data Sources

@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly adopt AI-powered financial management, it is important to consider the legal and regulatory implications of AI technology. In this chapter, we will discuss the legal and regulatory considerations for AI implementation in small business financial management.
 
 Intellectual Property Rights

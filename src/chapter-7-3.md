@@ -1,5 +1,4 @@
 
-
 In this chapter, we will examine case studies of successful AI implementations in small business accounting and reporting. These case studies demonstrate the significant impact that AI technology can have on financial management processes in small businesses.
 
 Case Study 1: Expense Management
