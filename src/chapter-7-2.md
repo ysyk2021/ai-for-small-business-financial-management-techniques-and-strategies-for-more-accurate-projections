@@ -1,5 +1,4 @@
-Chapter: Best Practices for AI Implementation in Expense Management, Invoice Processing, and Financial Reporting
-================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

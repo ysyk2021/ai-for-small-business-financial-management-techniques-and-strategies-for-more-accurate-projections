@@ -1,5 +1,4 @@
-Chapter: Overview of AI Applications for Financial Projections and Forecasting in Small Business
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

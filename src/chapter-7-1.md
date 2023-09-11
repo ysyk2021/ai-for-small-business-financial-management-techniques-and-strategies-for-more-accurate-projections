@@ -1,5 +1,4 @@
-Chapter: Overview of AI Applications for Accounting and Reporting in Small Business
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
